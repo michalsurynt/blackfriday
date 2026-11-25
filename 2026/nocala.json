@@ -1,0 +1,19 @@
+{
+  "name": "Nocala",
+  "url": "https://apps.apple.com/app/apple-store/id6804729183?pt=118835098&ct=Nocala:%20Black%20Friday%202026&mt=8",
+  "description": "Turns your wake-up time into a calm evening plan. Private, local, no account",
+  "category": "lifestyle",
+  "platforms": [
+    "ios"
+  ],
+  "deal": "100% off the one-time purchase, claimed on the in-app paywall",
+  "pricing": "one-time",
+  "price": {
+    "regular": 39.99,
+    "sale": 0,
+    "currency": "USD"
+  },
+  "discount": 100,
+  "endDate": "2026-12-06",
+  "icon": "https://nocala.app/images/nocala-icon.png"
+}
